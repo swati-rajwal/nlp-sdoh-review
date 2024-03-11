@@ -21,7 +21,7 @@ This survey provides a comprehensive overview of the principles, applications, a
 This survey aims to provide insights into the opportunities and challenges of NLP/LLMs in SDoH, and serve as a practical resource for constructing effective SDoH NLP/LLMs.
 
 ## 👍 Acknowledgement
-* [GitHub Repository template](https://github.com/Mooler0410/LLMsPracticalGuide)
+* [GitHub Repository template]([https://github.com/Mooler0410/LLMsPracticalGuide](https://github.com/AI-in-Health/MedLLMsPracticalGuide))
 
 ## 📑 Citation
 
